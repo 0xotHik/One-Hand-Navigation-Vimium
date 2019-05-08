@@ -1,0 +1,26 @@
+# Insert your preferred key mappings here.
+unmapAll
+
+map <f2> scrollUp
+map <c-q> scrollUp 
+map <q> scrollUp 
+map <c-й> scrollUp 
+map <й> scrollUp 
+
+map <f3> scrollDown 
+map <c-e> scrollDown 
+map <e> scrollDown 
+map <c-у> scrollDown 
+map <у> scrollDown 
+
+map <f1> LinkHints.activateMode
+map <a-e> LinkHints.activateMode
+
+map <f7> LinkHints.activateModeToOpenInNewForegroundTab
+map <a-q> LinkHints.activateModeToOpenInNewForegroundTab
+
+map <f4> Vomnibar.activate
+map <c-d> Vomnibar.activate
+map <a-d> Vomnibar.activate
+
+map <a-w> Vomnibar.activateTabSelection
