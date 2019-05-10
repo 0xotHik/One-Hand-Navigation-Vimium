@@ -1,5 +1,7 @@
 # Insert your preferred key mappings here.
+
 # Ctrl+W не перезаписывается
+# Ctrl+D срабатывает как "добавление закладки" при курсоре в поле URL
 unmapAll
 
 map <f1> LinkHints.activateMode
@@ -18,9 +20,10 @@ map <c-й> scrollUp
 map <c-e> scrollDown 
 map <c-у> scrollDown 
 
-map <c-d> Vomnibar.activate
-map <c-в> Vomnibar.activate
+map <c-a> Vomnibar.activate
+map <c-ф> Vomnibar.activate
 
+#Alt
 map <a-s> Vomnibar.activateTabSelection
 map <a-ы> Vomnibar.activateTabSelection
 
